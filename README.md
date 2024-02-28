@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Projects
+
+Here are some of the projects I've worked on:
+
+- [Project Name](link to project): Brief description of the project.
+- [Project Name](link to project): Brief description of the project.
+- [Project Name](link to project): Brief description of the project.
+
+Feel free to explore them and provide feedback or suggestions!
