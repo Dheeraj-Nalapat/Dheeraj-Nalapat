@@ -23,4 +23,10 @@ Here are some of the projects I've worked on:
 - [Project Name](link to project): Brief description of the project.
 
 Feel free to explore them and provide feedback or suggestions!
-[![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dheeraj-Nalapat)](https://github.com/Dheeraj-Nalapat/github-readme-stats)
+
+<a href="https://github.com/Dheeraj-Nalapat/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Dheeraj-Nalapat&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/Dheeraj-Nalapat/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dheeraj-Nalapat&exclude_repo=SeASoC&layout=donut-vertical&langs_count=8&card_width=320&theme=radical" />
+</a>
