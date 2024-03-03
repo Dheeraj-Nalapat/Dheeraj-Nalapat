@@ -23,3 +23,4 @@ Here are some of the projects I've worked on:
 - [Project Name](link to project): Brief description of the project.
 
 Feel free to explore them and provide feedback or suggestions!
+[![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dheeraj-Nalapat)](https://github.com/Dheeraj-Nalapat/github-readme-stats)
