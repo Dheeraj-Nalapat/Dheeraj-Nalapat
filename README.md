@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href=""><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
 <a href="https://dev.to/dheerajnalapat"><img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev" /></a>&nbsp;
-<a href="https://huggingface.co/your-username"><img src="https://img.shields.io/badge/Hugging%20Face-FF6F52?style=for-the-badge&logo=hugging%20face&logoColor=white" alt="Hugging Face" /></a>&nbsp;
+<a href="https://huggingface.co/DheerajNalapat"><img src="https://img.shields.io/badge/Hugging%20Face-FF6F52?style=for-the-badge&logo=hugging%20face&logoColor=white" alt="Hugging Face" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/dheeraj-nalapat"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;    
 <a href="https://dribbble.com/DheerajNalapat"><img src="https://img.shields.io/badge/Dribbble-pink?style=for-the-badge&logo=dribbble&logoColor=white alt="dribble" /></a>&nbsp;
 </p>
