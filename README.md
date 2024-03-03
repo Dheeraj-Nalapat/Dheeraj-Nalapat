@@ -28,20 +28,20 @@ Here are some ideas to get you started:
 Here are some of the projects I've worked on:
 
 <p align="center">
-<a href="https://github.com/Dheeraj-Nalapat/SeASo">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Dheeraj-Nalapat&repo=SeASo&theme=nightowl" alt="SeASoC" />
+<a href="https://github.com/Dheeraj-Nalapat/SeASoC">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Dheeraj-Nalapat&repo=SeASoC&theme=nightowl" alt="SeASoC" />
 </a>
 
-<a href="https://github.com/Dheeraj-Nalapat/Parkinsons-disease-detectio">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Dheeraj-Nalapat&repo=Parkinsons-disease-detectio&theme=nightowl" alt="Parkinsons-disease-detection" />
+<a href="https://github.com/Dheeraj-Nalapat/Parkinsons-disease-detection">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Dheeraj-Nalapat&repo=Parkinsons-disease-detection&theme=nightowl" alt="Parkinsons-disease-detection" />
 </a>
 
-<a href="https://github.com/Dheeraj-Nalapat/DSA-problem">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Dheeraj-Nalapat&repo=DSA-problem&theme=nightowl" alt="DSA-problems" />
+<a href="https://github.com/Dheeraj-Nalapat/DSA-problems">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Dheeraj-Nalapat&repo=DSA-problems&theme=nightowl" alt="DSA-problems" />
 </a>
 
-<a href="https://github.com/Dheeraj-Nalapat/Easy-Assignment">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Dheeraj-Nalapat&repo=Easy-Assignment&theme=nightowl" alt="Easy-Assignments" />
+<a href="https://github.com/Dheeraj-Nalapat/Easy-Assignments">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Dheeraj-Nalapat&repo=Easy-Assignments&theme=nightowl" alt="Easy-Assignments" />
 </a>
 </p>
 
