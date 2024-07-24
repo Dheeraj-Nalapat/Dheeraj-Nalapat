@@ -51,5 +51,5 @@ Feel free to explore them and provide feedback or suggestions!
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Dheeraj-Nalapat&show_icons=true&theme=nightowl" />
 </a>
 <a href="https://github.com/Dheeraj-Nalapat/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dheeraj-Nalapat&exclude_repo=Code-For-Day&layout=donut&langs_count=8&card_width=320&theme=nightowl" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dheeraj-Nalapat&exclude_repo=SeASoC,Code-For-Day&layout=donut&langs_count=8&card_width=320&theme=nightowl" />
 </a>
